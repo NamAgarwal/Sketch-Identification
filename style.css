@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+#score{
+    font-size: 30px !important;
+    margin-left: 40px;
+    float: left;
+    font-family: monospace;
+}
+#timer{
+    font-size: 25px !important;
+    margin-right: 100px;
+    float: right;
+    font-family: monospace;
+}
+#object_drawn{
+    color: darkorange;
+    margin-top: 50px;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: darkgreen;
+    font-family: cursive;
+    background-color: beige;
+    top: 0;
+}
+#show_sketch{
+    float: right;
+    margin-right: 30px;
+}
+#object{
+    font-size: 22px;
+    font-weight: lighter;
+    margin-top: 2%;
+    color: red;
+    font-family: fantasy;
+}
+#confidence{
+    font-size: 22px;
+    font-weight: lighter;
+    color: red;
+    margin-bottom: 10px;
+    font-family: fantasy;
+}
